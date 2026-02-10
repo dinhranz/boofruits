@@ -1,0 +1,47 @@
+body {
+    font-family: cursive;
+    background-color: #639982;
+
+}
+
+header {
+    background-color: #639982;
+}
+
+html {
+    background-color: #639982;
+}
+
+main {
+    background-color: #639982;
+}
+
+footer {
+    background-color: #639982;
+}
+
+header img {
+    width: 40px;
+    height: 40px;
+}
+
+main a{
+    text-decoration: none;
+    padding: 20px;
+    color: #00FF95;
+}
+
+nav img{
+    width: 600px;
+    height: 600px;
+}
+
+table{
+    border: 2px solid white;
+}
+
+td {
+    border: 2px solid white;
+    font-size: larger;
+    color: aqua;
+}
